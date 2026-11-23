@@ -1,0 +1,38 @@
+aim denemee
+
+DeviationMoveMultiplier 1,904    SpeedRate   1    RangeRateSight
+
+CrossHairBurstIncreaseSpeed 3,5   RangeRate  1
+
+      RangeRateSight  1   SpeedRate
+
+ 
+ShootSightReturnSpeed 6 Speed   3,5
+
+0 - Speed - ShootSightReturnSpeed dürbünlü aim 20 m
+
+Head 2 +  RangeRateSight  1  SpeedRateSight
+
+ReloadTime 2,2   SpeedRate   1 +   RangeRate
+
+
+
+SAFE AİM ASİSST
+
+BY REDZONE
+
+Speed --- ShootSightReturnSpeed 6 
+
+ShootSightReturnSpeed 3,5-6   SpeedRate   1 
+
+SpeedRateSight   ReloadTime 2,2 +
+
+
+
+RangeRate 1 +   CrossHairBurstIncreaseSpeed 3,5
+RangeRateSight 1   ReloadTime 2,2 +
+
+GameMotionYawRate 1
+GameMotionPitchRate  1
+
+
